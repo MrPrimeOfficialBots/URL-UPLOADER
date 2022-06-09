@@ -8,7 +8,7 @@
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
   "website": "https://github.com/unknownkidnapper",
-  "repository": "https://github.com/unknownkidnapper/URL-UPLOADER",
+  "repository": "https://github.com/MrPrimeOfficialBots/URL-UPLOADER",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
